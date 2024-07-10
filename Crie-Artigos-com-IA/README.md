@@ -57,8 +57,9 @@ E assim consegui encontrar as imagens públicas que eu utilizei durante a criaç
 
 Feito por [Vanderley Oliveira👾](https://github.com/VanderleyOliveira)
 
-Conecte-se comigo por:
+## Conecte-se comigo:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/vanderley-oliveira-exe/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/vanderley-oliveira/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VanderleyOliveira)
 
+**Meu perfil público na DIO:** <a href="https://www.dio.me/users/vanderleyoliv21">Vanderley Da Silva Oliveira</a>
