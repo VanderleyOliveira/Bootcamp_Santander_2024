@@ -1,6 +1,6 @@
 # Vídeo: Desvendando o Poder do z-index e Explorando o Figma
 
-![Capa do podcast](/assets/imgs/capa-podcast.jpg)
+![Capa do podcast](./assets/imgs/capa-podcast.jpg)
 
 ## 📑 Descrição
 Esse é um episódio de podcast em vídeo com duração de 1 minuto e meio, nele tem um apresentador criado 100% com IA. O objetivo desse vídeo é apresentar uma das posssibilidades de criação que as ferramentas de IA's generativas nos fornecem para criação de conteúdos digitais.
@@ -26,7 +26,7 @@ Acesse o episódio completo do podcast:
 ## 💭 Reflexão (Opcional)
 O uso de IAs na criação de conteúdos educativos e de entretenimento, como visto no episódio do podcast acima, mostra como a tecnologia pode transformar o aprendizado. Ferramentas como ChatGPT, Virbo e Capcut facilitam a produção de materiais envolventes e acessíveis para todos.
 
-![imagem de IA](/assets/imgs/fundo-podcast.jpg)
+![imagem de IA](./assets/imgs/fundo-podcast.jpg)
 
 Feito por [Vanderley Oliveira👾](https://github.com/VanderleyOliveira) 
 

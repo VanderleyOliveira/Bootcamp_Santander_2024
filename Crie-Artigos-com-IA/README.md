@@ -53,7 +53,7 @@ E assim consegui encontrar as imagens públicas que eu utilizei durante a criaç
 ## 📂 Onde encontrar meus arquivos:
 
 - Todas as imagens utilizadas no artigo estão na pasta: `assets`;
-- Acesse meu artigo gerado por I.A [clicando aqui!](https://web.dio.me/articles/acessibilidade-em-html5-boas-praticas-e-ferramentas-essenciais?back=%2Farticles&open-modal=true&page=1&order=oldest) .
+- Acesse meu artigo gerado por I.A [clicando aqui!](https://web.dio.me/articles/acessibilidade-em-html5-boas-praticas-e-ferramentas-essenciais?back=%2Farticles&open-modal=true&page=1&order=oldest).
 
 Feito por [Vanderley Oliveira👾](https://github.com/VanderleyOliveira)
 
